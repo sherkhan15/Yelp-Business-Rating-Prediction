@@ -1,4 +1,4 @@
-# NLP
+# Yelp Business Rating Prediction
 
 **Natural Language Processing Project**
 
